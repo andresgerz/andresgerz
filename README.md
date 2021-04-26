@@ -3,7 +3,7 @@
 ```js
 const andresgerz = {
   code: [ "PHP", "TypeScript", "Python", "R" ] ,
-  tools: [ "React", "Laravel", "Kivy", "Express" ] ,
+  tools: [ "React.js", "Next.js", "Laravel", "Kivy", "Express.js" ] ,
   databases: [ "MySQL", "PostgreSQL", "MongoDB", "Redis" ]
 }
 ```
