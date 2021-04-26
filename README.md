@@ -1,11 +1,16 @@
-### Hi there, I'm Andrés 👋
+### Hi there 👋, I'm Andrés
 
 ```js
-const andresgerz = {
+const mySkills = {
   code: [ "PHP", "TypeScript", "Python", "R" ] ,
   tools: [ "React.js", "Next.js", "Laravel", "Kivy", "Express.js" ] ,
-  databases: [ "MySQL", "PostgreSQL", "MongoDB", "Redis" ]
+  databases: [ "MySQL", "PostgreSQL", "MongoDB", "Redis" ] ,
+  others: [ "Docker", "Lando", "Git workflow" ]
 }
+```
+
+```py
+d = { "a": 2, "b": 42 }
 ```
 
 <!--
