@@ -10,6 +10,9 @@ const mySkills = {
 ```
 
 ```py
+
+d = dict();
+
 d = { "a": 2, "b": 42 }
 ```
 
