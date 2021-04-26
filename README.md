@@ -2,18 +2,11 @@
 
 ```js
 const mySkills = {
-  code: [ "PHP", "TypeScript", "Python", "R" ] ,
-  tools: [ "React.js", "Next.js", "Laravel", "Kivy", "Express.js" ] ,
+  code: [ "HTML", "CSS", "TypeScript", "Python", "PHP", "R" ] ,
+  tools: [ "React.js", "Next.js", "Laravel", "Kivy", "Express.js", "Bootstrap" ] ,
   databases: [ "MySQL", "PostgreSQL", "MongoDB", "Redis" ] ,
   others: [ "Docker", "Lando", "Git workflow" ]
 }
-```
-
-```py
-
-d = dict();
-
-d = { "a": 2, "b": 42 }
 ```
 
 <!--
