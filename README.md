@@ -5,7 +5,8 @@ const mySkills = {
   code: [ "HTML", "CSS", "TypeScript", "Python", "PHP", "R" ] ,
   tools: [ "React.js", "Next.js", "Laravel", "Kivy", "Express.js", "Bootstrap" ] ,
   databases: [ "MySQL", "PostgreSQL", "MongoDB", "Redis" ] ,
-  others: [ "Docker", "Lando", "Git workflow" ]
+  others: [ "Docker", "Lando", "Git workflow" ] ,
+  languages: [ "Spanish", "English", "German" ]
 }
 ```
 
